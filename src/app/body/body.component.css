@@ -1,0 +1,23 @@
+
+.main_p{
+    display:flex;
+    margin: 40px 25px;
+}
+
+.p{
+    border-left: 4px solid red;
+    width: 50%;
+    font-size: 28px;
+    padding: 0 1.5%;
+    margin-right: 25px;
+    height: fit-content;
+}
+
+.first_p{
+    float: left;
+    
+}
+
+.second_p{
+    float: right;
+    }
